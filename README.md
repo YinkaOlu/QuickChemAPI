@@ -13,4 +13,4 @@ The ElementSource acts as the entry point to access ChemElement information
 The controller layer determines routing in the RESTful api and business logic to handle each call to the server. 
 
 ### Application
-This layer holds higher level application organization. App layer determines which controllers and middleware are necessary.
+This layer holds higher level application organization. App layer determines which controllers and middleware are needed.
